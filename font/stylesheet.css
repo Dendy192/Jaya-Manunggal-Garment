@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'SeoulHangang M';
+    src: url('SeoulHangangM.eot');
+    src: url('SeoulHangangM.eot?#iefix') format('embedded-opentype'),
+        url('SeoulHangangM.woff2') format('woff2'),
+        url('SeoulHangangM.woff') format('woff'),
+        url('SeoulHangangM.ttf') format('truetype'),
+        url('SeoulHangangM.svg#SeoulHangangM') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
